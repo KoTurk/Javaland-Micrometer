@@ -2,7 +2,7 @@
 Here you will find the project we've made at JavaLand (video will follow).
 <br><br>
 ### Slides <br>
-[![JavaLand - slides](https://img.youtube.com/vi/kqNMOJRfGIg/0.jpg)](https://www.slideshare.net/KoTurk/controlling-your-race-with-micrometer-and-spring-boot-live-coding)
+[![JavaLand - slides](https://img.youtube.com/vi/kqNMOJRfGIg/0.jpg)](https://www.slideshare.net/KoTurk/javaland-micrometer-and-springboot)
 
 <br><br>
 Please use mvn to build it.
